@@ -1,6 +1,6 @@
 step-1) basic css designer=> https://angrytools.com/css-grid/ from this website we can generate the onlline grid
 step-2) from this we can generate the online flexbox also => https://angrytools.com/css-flex/
-step-3) this is used for the css animation
+step-3) this is used for the css animation https://cssgridgenerator.io/
 
 
 
